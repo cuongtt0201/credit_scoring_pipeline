@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# System / OS
+.DS_Store
+.system_generated/
+
+# Checkpoints
+.ipynb_checkpoints/

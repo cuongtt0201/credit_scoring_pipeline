@@ -1,0 +1,301 @@
+ma_dai_ly,tinh,loai_dai_ly,so_nam_hop_tac,quy_mo
+DL0001,Cần Thơ,dien_may,10,vua
+DL0002,Đồng Nai,dien_thoai,7,nho
+DL0003,TP. Hồ Chí Minh,dien_thoai,3,lon
+DL0004,Tây Ninh,dien_may,10,nho
+DL0005,TP. Hồ Chí Minh,dien_may,7,nho
+DL0006,Đồng Nai,xe_may,7,nho
+DL0007,Tây Ninh,xe_may,11,vua
+DL0008,Đồng Nai,dien_may,5,vua
+DL0009,Tây Ninh,dien_thoai,1,lon
+DL0010,TP. Hồ Chí Minh,dien_may,10,vua
+DL0011,TP. Hồ Chí Minh,xe_may,3,lon
+DL0012,Vĩnh Long,xe_may,7,lon
+DL0013,Tây Ninh,dien_thoai,6,vua
+DL0014,An Giang,xe_may,11,vua
+DL0015,An Giang,dien_thoai,1,lon
+DL0016,TP. Hồ Chí Minh,xe_may,3,vua
+DL0017,Đồng Nai,dien_thoai,5,nho
+DL0018,Tây Ninh,dien_may,8,lon
+DL0019,TP. Hồ Chí Minh,dien_may,3,nho
+DL0020,TP. Hồ Chí Minh,dien_may,8,vua
+DL0021,Vĩnh Long,dien_thoai,3,lon
+DL0022,Vĩnh Long,dien_thoai,11,vua
+DL0023,Đồng Nai,dien_thoai,12,vua
+DL0024,Cần Thơ,dien_may,2,nho
+DL0025,Tây Ninh,dien_thoai,8,nho
+DL0026,Cần Thơ,dien_may,10,vua
+DL0027,Đồng Nai,dien_may,5,vua
+DL0028,Tây Ninh,dien_thoai,9,vua
+DL0029,An Giang,dien_thoai,10,vua
+DL0030,Vĩnh Long,dien_may,11,lon
+DL0031,Đồng Nai,dien_may,7,vua
+DL0032,An Giang,xe_may,8,vua
+DL0033,Đồng Nai,xe_may,2,vua
+DL0034,Cần Thơ,dien_thoai,6,vua
+DL0035,Cần Thơ,dien_may,9,nho
+DL0036,Đồng Nai,xe_may,10,vua
+DL0037,Vĩnh Long,dien_thoai,5,vua
+DL0038,Tây Ninh,dien_thoai,4,lon
+DL0039,Lâm Đồng,xe_may,9,nho
+DL0040,Lâm Đồng,dien_may,1,vua
+DL0041,An Giang,dien_thoai,3,nho
+DL0042,An Giang,dien_may,9,nho
+DL0043,TP. Hồ Chí Minh,dien_may,9,nho
+DL0044,Đồng Tháp,dien_thoai,10,nho
+DL0045,Cần Thơ,dien_may,10,lon
+DL0046,Tây Ninh,dien_thoai,10,vua
+DL0047,Tây Ninh,dien_thoai,4,nho
+DL0048,TP. Hồ Chí Minh,dien_may,6,vua
+DL0049,TP. Hồ Chí Minh,dien_thoai,8,nho
+DL0050,Vĩnh Long,dien_thoai,9,nho
+DL0051,TP. Hồ Chí Minh,dien_thoai,5,vua
+DL0052,Cần Thơ,dien_may,9,vua
+DL0053,TP. Hồ Chí Minh,dien_thoai,3,vua
+DL0054,Đồng Nai,dien_thoai,4,nho
+DL0055,TP. Hồ Chí Minh,dien_thoai,9,nho
+DL0056,Đồng Tháp,dien_thoai,10,nho
+DL0057,TP. Hồ Chí Minh,dien_thoai,1,vua
+DL0058,Tây Ninh,dien_thoai,12,vua
+DL0059,TP. Hồ Chí Minh,dien_may,10,lon
+DL0060,Tây Ninh,xe_may,5,lon
+DL0061,Đồng Tháp,dien_thoai,8,nho
+DL0062,TP. Hồ Chí Minh,dien_may,4,vua
+DL0063,Vĩnh Long,dien_thoai,2,lon
+DL0064,Vĩnh Long,dien_may,8,nho
+DL0065,Lâm Đồng,xe_may,11,nho
+DL0066,Đồng Nai,xe_may,11,nho
+DL0067,An Giang,dien_may,1,vua
+DL0068,TP. Hồ Chí Minh,dien_may,8,vua
+DL0069,Lâm Đồng,dien_thoai,1,nho
+DL0070,TP. Hồ Chí Minh,dien_may,12,lon
+DL0071,Đồng Nai,dien_thoai,5,nho
+DL0072,TP. Hồ Chí Minh,dien_thoai,12,vua
+DL0073,Vĩnh Long,xe_may,7,nho
+DL0074,Tây Ninh,xe_may,9,vua
+DL0075,Lâm Đồng,xe_may,1,nho
+DL0076,TP. Hồ Chí Minh,dien_thoai,9,vua
+DL0077,An Giang,dien_may,8,nho
+DL0078,Đồng Nai,xe_may,3,vua
+DL0079,TP. Hồ Chí Minh,dien_may,6,lon
+DL0080,Đồng Tháp,dien_may,5,nho
+DL0081,TP. Hồ Chí Minh,dien_may,1,lon
+DL0082,Tây Ninh,dien_thoai,10,nho
+DL0083,Tây Ninh,dien_thoai,9,nho
+DL0084,TP. Hồ Chí Minh,dien_may,5,nho
+DL0085,Đồng Nai,dien_may,4,nho
+DL0086,Đồng Nai,dien_thoai,3,nho
+DL0087,TP. Hồ Chí Minh,dien_thoai,10,lon
+DL0088,Lâm Đồng,dien_thoai,1,nho
+DL0089,Đồng Tháp,dien_thoai,7,vua
+DL0090,TP. Hồ Chí Minh,xe_may,3,vua
+DL0091,Cần Thơ,xe_may,1,vua
+DL0092,Đồng Nai,dien_may,7,nho
+DL0093,Đồng Tháp,xe_may,4,nho
+DL0094,Đồng Nai,xe_may,12,nho
+DL0095,Đồng Tháp,dien_thoai,9,vua
+DL0096,Cần Thơ,dien_thoai,5,lon
+DL0097,TP. Hồ Chí Minh,dien_thoai,12,nho
+DL0098,Vĩnh Long,xe_may,10,nho
+DL0099,Đồng Tháp,dien_may,6,vua
+DL0100,Đồng Tháp,dien_thoai,2,nho
+DL0101,TP. Hồ Chí Minh,xe_may,1,vua
+DL0102,TP. Hồ Chí Minh,dien_may,10,lon
+DL0103,Đồng Nai,dien_thoai,6,nho
+DL0104,TP. Hồ Chí Minh,dien_thoai,12,nho
+DL0105,TP. Hồ Chí Minh,xe_may,6,nho
+DL0106,Đồng Tháp,dien_may,7,vua
+DL0107,Đồng Nai,dien_thoai,10,lon
+DL0108,Cần Thơ,xe_may,6,vua
+DL0109,TP. Hồ Chí Minh,dien_thoai,7,nho
+DL0110,Cần Thơ,dien_may,11,nho
+DL0111,TP. Hồ Chí Minh,dien_thoai,3,vua
+DL0112,An Giang,dien_may,3,vua
+DL0113,An Giang,dien_thoai,12,nho
+DL0114,Cần Thơ,dien_may,12,vua
+DL0115,Đồng Nai,dien_may,12,vua
+DL0116,TP. Hồ Chí Minh,dien_may,12,nho
+DL0117,Cần Thơ,dien_may,1,vua
+DL0118,Tây Ninh,dien_thoai,12,nho
+DL0119,TP. Hồ Chí Minh,dien_may,2,nho
+DL0120,Đồng Tháp,dien_thoai,11,vua
+DL0121,TP. Hồ Chí Minh,dien_thoai,9,vua
+DL0122,Tây Ninh,xe_may,7,vua
+DL0123,Đồng Tháp,dien_may,6,vua
+DL0124,Vĩnh Long,dien_may,9,nho
+DL0125,TP. Hồ Chí Minh,dien_may,8,vua
+DL0126,TP. Hồ Chí Minh,dien_may,7,vua
+DL0127,Đồng Nai,dien_thoai,1,nho
+DL0128,TP. Hồ Chí Minh,xe_may,4,vua
+DL0129,Lâm Đồng,dien_thoai,3,nho
+DL0130,An Giang,dien_thoai,12,nho
+DL0131,Đồng Tháp,xe_may,11,nho
+DL0132,TP. Hồ Chí Minh,dien_thoai,1,vua
+DL0133,TP. Hồ Chí Minh,dien_thoai,8,lon
+DL0134,Lâm Đồng,xe_may,4,vua
+DL0135,TP. Hồ Chí Minh,dien_may,7,nho
+DL0136,TP. Hồ Chí Minh,dien_thoai,12,nho
+DL0137,Vĩnh Long,dien_thoai,8,nho
+DL0138,Đồng Nai,xe_may,12,nho
+DL0139,Đồng Nai,dien_may,4,vua
+DL0140,Đồng Nai,dien_thoai,4,vua
+DL0141,Cần Thơ,dien_thoai,11,nho
+DL0142,Tây Ninh,dien_thoai,12,vua
+DL0143,Vĩnh Long,dien_may,8,nho
+DL0144,Tây Ninh,dien_may,10,lon
+DL0145,TP. Hồ Chí Minh,xe_may,5,vua
+DL0146,TP. Hồ Chí Minh,dien_may,10,vua
+DL0147,Cần Thơ,dien_may,3,lon
+DL0148,TP. Hồ Chí Minh,dien_may,7,vua
+DL0149,Đồng Tháp,dien_may,9,vua
+DL0150,Đồng Tháp,dien_may,5,vua
+DL0151,Lâm Đồng,xe_may,4,vua
+DL0152,TP. Hồ Chí Minh,dien_may,1,lon
+DL0153,TP. Hồ Chí Minh,dien_thoai,6,nho
+DL0154,Đồng Tháp,dien_may,5,nho
+DL0155,Đồng Nai,dien_thoai,8,nho
+DL0156,TP. Hồ Chí Minh,dien_may,5,lon
+DL0157,An Giang,xe_may,9,nho
+DL0158,Cần Thơ,dien_thoai,1,lon
+DL0159,TP. Hồ Chí Minh,dien_may,12,nho
+DL0160,TP. Hồ Chí Minh,xe_may,2,lon
+DL0161,Vĩnh Long,dien_thoai,5,nho
+DL0162,Tây Ninh,dien_thoai,4,nho
+DL0163,An Giang,dien_may,10,vua
+DL0164,Tây Ninh,xe_may,6,nho
+DL0165,TP. Hồ Chí Minh,dien_may,10,nho
+DL0166,TP. Hồ Chí Minh,dien_may,10,nho
+DL0167,Đồng Nai,xe_may,8,nho
+DL0168,Cần Thơ,dien_may,8,lon
+DL0169,TP. Hồ Chí Minh,dien_may,7,vua
+DL0170,Đồng Nai,dien_thoai,7,vua
+DL0171,Đồng Nai,dien_may,10,nho
+DL0172,Cần Thơ,dien_may,10,nho
+DL0173,TP. Hồ Chí Minh,dien_thoai,6,lon
+DL0174,An Giang,xe_may,11,lon
+DL0175,Đồng Nai,xe_may,1,vua
+DL0176,Vĩnh Long,dien_may,6,vua
+DL0177,Vĩnh Long,xe_may,9,nho
+DL0178,An Giang,dien_may,8,nho
+DL0179,TP. Hồ Chí Minh,xe_may,5,vua
+DL0180,Vĩnh Long,dien_may,12,nho
+DL0181,TP. Hồ Chí Minh,dien_thoai,1,nho
+DL0182,Đồng Nai,dien_thoai,1,vua
+DL0183,TP. Hồ Chí Minh,xe_may,6,nho
+DL0184,Tây Ninh,xe_may,8,lon
+DL0185,TP. Hồ Chí Minh,dien_may,5,nho
+DL0186,Lâm Đồng,dien_thoai,10,vua
+DL0187,TP. Hồ Chí Minh,dien_thoai,8,nho
+DL0188,Tây Ninh,dien_may,6,vua
+DL0189,Vĩnh Long,dien_thoai,4,nho
+DL0190,TP. Hồ Chí Minh,dien_may,9,nho
+DL0191,Đồng Tháp,dien_may,6,vua
+DL0192,Tây Ninh,dien_thoai,11,lon
+DL0193,Cần Thơ,dien_thoai,3,vua
+DL0194,Cần Thơ,dien_thoai,10,nho
+DL0195,Vĩnh Long,dien_thoai,9,nho
+DL0196,Vĩnh Long,dien_thoai,7,nho
+DL0197,Đồng Tháp,xe_may,12,nho
+DL0198,Đồng Nai,dien_may,9,nho
+DL0199,TP. Hồ Chí Minh,dien_may,12,lon
+DL0200,TP. Hồ Chí Minh,dien_may,9,nho
+DL0201,An Giang,xe_may,4,nho
+DL0202,TP. Hồ Chí Minh,dien_thoai,5,nho
+DL0203,An Giang,dien_may,11,nho
+DL0204,Đồng Nai,dien_thoai,1,vua
+DL0205,TP. Hồ Chí Minh,xe_may,11,nho
+DL0206,TP. Hồ Chí Minh,xe_may,12,nho
+DL0207,Đồng Nai,dien_may,11,vua
+DL0208,TP. Hồ Chí Minh,dien_may,6,lon
+DL0209,Đồng Nai,xe_may,9,nho
+DL0210,Vĩnh Long,xe_may,4,nho
+DL0211,Đồng Nai,dien_may,3,vua
+DL0212,Tây Ninh,dien_thoai,4,nho
+DL0213,Lâm Đồng,dien_may,11,nho
+DL0214,TP. Hồ Chí Minh,dien_thoai,5,nho
+DL0215,Tây Ninh,dien_may,9,lon
+DL0216,Lâm Đồng,dien_may,7,vua
+DL0217,Tây Ninh,dien_may,12,vua
+DL0218,Đồng Tháp,xe_may,7,nho
+DL0219,Tây Ninh,dien_thoai,6,lon
+DL0220,TP. Hồ Chí Minh,dien_may,5,nho
+DL0221,Cần Thơ,dien_thoai,9,nho
+DL0222,An Giang,dien_thoai,1,vua
+DL0223,An Giang,dien_thoai,12,vua
+DL0224,Đồng Tháp,dien_thoai,12,nho
+DL0225,Đồng Nai,dien_thoai,2,vua
+DL0226,Cần Thơ,dien_may,1,nho
+DL0227,Lâm Đồng,dien_thoai,11,lon
+DL0228,Lâm Đồng,xe_may,12,nho
+DL0229,TP. Hồ Chí Minh,dien_thoai,6,nho
+DL0230,Lâm Đồng,xe_may,1,vua
+DL0231,Cần Thơ,dien_may,2,lon
+DL0232,An Giang,dien_may,7,vua
+DL0233,TP. Hồ Chí Minh,xe_may,12,vua
+DL0234,Lâm Đồng,dien_thoai,10,nho
+DL0235,Cần Thơ,dien_thoai,1,nho
+DL0236,TP. Hồ Chí Minh,dien_may,8,vua
+DL0237,Tây Ninh,dien_may,10,nho
+DL0238,TP. Hồ Chí Minh,dien_thoai,9,lon
+DL0239,Cần Thơ,dien_may,6,lon
+DL0240,Đồng Tháp,dien_thoai,2,vua
+DL0241,Đồng Tháp,xe_may,9,nho
+DL0242,Vĩnh Long,xe_may,11,lon
+DL0243,Cần Thơ,xe_may,7,vua
+DL0244,TP. Hồ Chí Minh,dien_thoai,8,vua
+DL0245,Cần Thơ,dien_may,2,nho
+DL0246,Tây Ninh,dien_may,12,vua
+DL0247,TP. Hồ Chí Minh,dien_thoai,5,vua
+DL0248,Đồng Nai,dien_may,12,nho
+DL0249,Tây Ninh,dien_may,2,nho
+DL0250,An Giang,dien_may,10,nho
+DL0251,An Giang,xe_may,10,vua
+DL0252,TP. Hồ Chí Minh,dien_may,10,nho
+DL0253,Đồng Nai,dien_may,4,vua
+DL0254,Vĩnh Long,xe_may,12,vua
+DL0255,Đồng Tháp,dien_thoai,5,vua
+DL0256,An Giang,dien_thoai,9,nho
+DL0257,Đồng Tháp,dien_may,1,lon
+DL0258,TP. Hồ Chí Minh,xe_may,8,nho
+DL0259,Tây Ninh,xe_may,4,vua
+DL0260,Tây Ninh,dien_thoai,7,nho
+DL0261,An Giang,xe_may,9,vua
+DL0262,Đồng Nai,dien_thoai,7,nho
+DL0263,TP. Hồ Chí Minh,dien_thoai,1,nho
+DL0264,Cần Thơ,xe_may,8,lon
+DL0265,Đồng Nai,dien_thoai,5,nho
+DL0266,Tây Ninh,dien_may,8,vua
+DL0267,Lâm Đồng,dien_thoai,9,vua
+DL0268,Cần Thơ,dien_may,1,nho
+DL0269,Cần Thơ,xe_may,4,vua
+DL0270,Lâm Đồng,dien_thoai,2,lon
+DL0271,Cần Thơ,dien_may,9,nho
+DL0272,Lâm Đồng,xe_may,6,vua
+DL0273,Đồng Tháp,xe_may,2,nho
+DL0274,Đồng Tháp,dien_thoai,4,vua
+DL0275,TP. Hồ Chí Minh,dien_thoai,12,nho
+DL0276,TP. Hồ Chí Minh,dien_thoai,9,nho
+DL0277,Tây Ninh,dien_may,5,vua
+DL0278,TP. Hồ Chí Minh,dien_may,12,nho
+DL0279,TP. Hồ Chí Minh,dien_may,9,lon
+DL0280,Cần Thơ,dien_thoai,4,vua
+DL0281,Cần Thơ,xe_may,2,nho
+DL0282,TP. Hồ Chí Minh,dien_may,10,vua
+DL0283,TP. Hồ Chí Minh,dien_may,4,nho
+DL0284,Đồng Tháp,dien_thoai,5,vua
+DL0285,Đồng Nai,xe_may,4,vua
+DL0286,Đồng Tháp,xe_may,9,vua
+DL0287,TP. Hồ Chí Minh,dien_thoai,2,nho
+DL0288,An Giang,xe_may,2,nho
+DL0289,TP. Hồ Chí Minh,dien_thoai,8,vua
+DL0290,Đồng Nai,xe_may,8,nho
+DL0291,Đồng Nai,dien_thoai,8,lon
+DL0292,Đồng Tháp,dien_may,7,vua
+DL0293,Lâm Đồng,xe_may,3,vua
+DL0294,TP. Hồ Chí Minh,dien_thoai,10,vua
+DL0295,TP. Hồ Chí Minh,dien_thoai,12,lon
+DL0296,TP. Hồ Chí Minh,dien_thoai,2,nho
+DL0297,Vĩnh Long,dien_may,4,vua
+DL0298,Đồng Nai,dien_may,7,nho
+DL0299,An Giang,dien_thoai,6,lon
+DL0300,TP. Hồ Chí Minh,dien_thoai,11,lon

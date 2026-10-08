@@ -1,0 +1,6 @@
+Tầng dữ liệu,Số biến,AUC (5-Fold CV),KS Statistic,Mức tăng AUC (ΔAUC)
+1. Chỉ Hồ sơ,9,0.6567,0.2334,0.0
+2. + Khách hàng & Đại lý,20,0.6838,0.2686,0.0271
+3. + Credit Bureau,26,0.7761,0.4131,0.0923
+4. + Lịch sử trả nợ,34,0.8003,0.451,0.0242
+5. + Bảng lương & Liên nguồn,41,0.8262,0.4972,0.0259
